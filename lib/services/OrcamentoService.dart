@@ -1,0 +1,1 @@
+Contratante principal: A organização contrata um único fornecedor para gerenciar um conjunto de serviços, permitindo que ele subcontrate outros fornecedores
